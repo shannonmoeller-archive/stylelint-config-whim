@@ -19,7 +19,7 @@ module.exports = {
 		'selector-attribute-quotes': 'always',
 		'selector-max-id': 0,
 		'selector-no-vendor-prefix': true,
-		'selector-type-no-unknown': false,
+		'selector-type-no-unknown': null,
 		'string-quotes': 'single',
 		'value-no-vendor-prefix': true,
 	},
