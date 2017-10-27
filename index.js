@@ -17,7 +17,7 @@ module.exports = {
 		'no-duplicate-selectors': true,
 		'property-no-vendor-prefix': true,
 		'selector-attribute-quotes': 'always',
-		'selector-no-id': true,
+		'selector-max-id': 0,
 		'selector-no-vendor-prefix': true,
 		'string-quotes': 'single',
 		'value-no-vendor-prefix': true,
