@@ -14,10 +14,10 @@
     "*.js"
   ],
   "dependencies": {
-    "stylelint-config-standard": "^16.0.0",
+    "stylelint-config-standard": "^18.0.0",
     "stylelint-processor-html": "^1.0.0"
   },
   "devDependencies": {
-    "stylelint": "^7.7.0"
+    "stylelint": "^8.4.0"
   }
 }
